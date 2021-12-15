@@ -1,6 +1,50 @@
 h1{
 	font-family: 'Georgia', serif;
+	font-size: 40px;
 }
-.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
-    background-color: #8064A2 !important;
+.jumbotron-fluid{
+	background-color: #C3DFE0;
+	color: darkslategrey;
+	padding-top: 20px;
+}
+p.block.description-block span {
+	font-style: italic;
+}
+p.figure-caption{
+	font-family: 'Georgia', sans-serif;
+	color: darkslategrey;
+	font-size: 20px;
+	font-style: italic;
+}
+
+p{
+	font-family: 'Georgia', sans-serif;
+	font-size: 22px;
+}
+img{
+	height: 380px;
+	width:  430px;
+}
+h2{
+	font-family: 'georgia', sans-serif;
+	padding-bottom: 30px;
+}
+h4{
+	font-family: 'georgia', sans-serif;
+}
+ol{
+	font-family: 'georgia', sans-serif;
+}
+.btn{
+	background-color: #C3DFE0;
+}
+.fixed-bottom{
+	background-color:#C3DFE0;
+	color: darkslategrey;
+	font-family: 'georgia', sans-serif;
+	text-align: center;
+}
+
+.last{
+	padding-bottom: 30px;
 }
